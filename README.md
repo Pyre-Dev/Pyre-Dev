@@ -24,6 +24,7 @@ Azure Monitor
 
 | Certification | Issuer | Year |
 |---|---|---|
+| Azure Solutions Architect Expert | Microsoft | 2026 |
 | Azure Administrator Associate (AZ-104) | Microsoft | 2026 |
 | Azure Developer Associate (AZ-204) | Microsoft | 2025 |
 | AWS Certified Cloud Practitioner | AWS | 2025 |
@@ -36,7 +37,7 @@ Azure Monitor
 | Linux Essentials | LPI | 2024 |
 | CompTIA A+ | CompTIA | 2023 |
 
-*AZ-305 (Azure Solutions Architect Expert) in progress — Q4 2025*
+*AZ-400 (Azure DevOps Expert) in progress — Q4 2025*
 
 ---
 
