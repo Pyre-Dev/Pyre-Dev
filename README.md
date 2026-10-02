@@ -24,7 +24,7 @@ Azure Monitor
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Azure Solutions Architect Expert | Microsoft | 2026 |
+| Azure Solutions Architect Expert (AZ-305) | Microsoft | 2026 |
 | Azure Administrator Associate (AZ-104) | Microsoft | 2026 |
 | Azure Developer Associate (AZ-204) | Microsoft | 2025 |
 | AWS Certified Cloud Practitioner | AWS | 2025 |
