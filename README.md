@@ -1,6 +1,6 @@
 # Graham Conway | Cloud & Infrastructure Engineer
 
-Senior Cloud Systems Administrator in the DFW area with a focus on Azure 
+Senior Cloud Engineer in the DFW area with a focus on Azure 
 networking, hybrid infrastructure, and infrastructure as code. I build 
 environments that are secure, repeatable, and documented well enough that 
 future-me doesn't hate past-me.
